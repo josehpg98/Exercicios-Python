@@ -1,2 +1,1 @@
-print("olá mundo 2022!");
-
+print('Hello world em python!')
